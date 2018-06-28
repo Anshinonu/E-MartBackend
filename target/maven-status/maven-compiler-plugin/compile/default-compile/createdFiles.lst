@@ -1,0 +1,4 @@
+com\niit\emart\dao\impl\UserDAOImpl.class
+com\niit\emart\config\HibernateConfiguration.class
+com\niit\emart\dao\UserDAO.class
+com\niit\emart\model\User.class

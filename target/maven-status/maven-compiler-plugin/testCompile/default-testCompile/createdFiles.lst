@@ -1,0 +1,10 @@
+com\niit\emart\test\SupplierTest.class
+com\niit\emart\test\UserTest.class
+com\niit\emart\test\CategoryJUnitTest.class
+com\niit\emart\test\CategoryTest.class
+com\niit\emart\test\UserJUnitTest.class
+com\niit\emart\test\CartTest.class
+com\niit\emart\test\CartJUnitTest.class
+com\niit\emart\test\ProductTest.class
+com\niit\emart\test\ProductJUnitTest.class
+com\niit\emart\test\SupplierJUnitTest.class
